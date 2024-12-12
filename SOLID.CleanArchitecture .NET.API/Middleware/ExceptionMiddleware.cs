@@ -11,7 +11,7 @@ namespace SOLID.CleanArchitecture_.NET.API.Middleware
     {
         private readonly RequestDelegate _next;
 
-        private readonly ILogger<ExceptionMiddleware> _logger;
+        //private readonly ILogger<ExceptionMiddleware> _logger;
 
         public ExceptionMiddleware(RequestDelegate next)
         {
