@@ -1,0 +1,32 @@
+﻿@using SOLID.CleanArchitecture_.NET.BlazorApp.Layout
+
+<CascadingAuthenticationState>
+<Router AppAssembly="@typeof(App).Assembly">
+    <Found Context="routeData">
+        <AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)">
+            <NotAuthorized>
+                    <PageTitle>Not Authorized</PageTitle>
+                   
+                @if (context.User?.Identity?.IsAuthenticated == false)
+                {
+                  <SOLID.CleanArchitecture_.NET.BlazorApp.Shared.RedirectToLogin/>
+                }
+                else
+                {
+                    <PageTitle>Not Authorized</PageTitle>
+                    <LayoutView Layout="@typeof(MainLayout)">
+                        <p role="alert">Sorry, you cannot view this page</p>
+                    </LayoutView>
+                }
+            </NotAuthorized>
+        </AuthorizeRouteView>
+        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
+    </Found>
+    <NotFound>
+        <PageTitle>Not found</PageTitle>
+        <LayoutView Layout="@typeof(MainLayout)">
+            <p role="alert">Sorry, there's nothing at this address.</p>
+        </LayoutView>
+    </NotFound>
+</Router>
+</CascadingAuthenticationState>

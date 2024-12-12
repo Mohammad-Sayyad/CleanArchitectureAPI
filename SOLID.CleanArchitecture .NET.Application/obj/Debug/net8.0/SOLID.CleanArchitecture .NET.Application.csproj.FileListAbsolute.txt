@@ -1,0 +1,15 @@
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.csproj.AssemblyReference.cache
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.AssemblyInfoInputs.cache
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.AssemblyInfo.cs
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.deps.json
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.dll
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.pdb
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Domain.dll
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Domain.pdb
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\obj\Debug\net8.0\SOLID.Cl.562490CF.Up2Date
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.dll
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\obj\Debug\net8.0\refint\SOLID.CleanArchitecture .NET.Application.dll
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.pdb
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Application\obj\Debug\net8.0\ref\SOLID.CleanArchitecture .NET.Application.dll

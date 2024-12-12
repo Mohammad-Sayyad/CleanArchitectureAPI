@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SOLID.CleanArchitecture .NET.Domain/1.0.0": {
+        "runtime": {
+          "SOLID.CleanArchitecture .NET.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID.CleanArchitecture .NET.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

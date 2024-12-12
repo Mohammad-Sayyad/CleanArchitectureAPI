@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SOLID.CleanArchitecture .NET.API.props" />
+</Project>

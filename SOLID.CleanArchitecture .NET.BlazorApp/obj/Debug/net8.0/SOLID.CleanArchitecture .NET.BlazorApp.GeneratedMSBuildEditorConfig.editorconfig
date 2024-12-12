@@ -1,0 +1,99 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = SOLID.CleanArchitecture_.NET.BlazorApp
+build_property.RootNamespace = SOLID.CleanArchitecture_.NET.BlazorApp
+build_property.ProjectDir = C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.BlazorApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.BlazorApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Layout/BackToList.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEJhY2tUb0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Layout/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/LeaveRequest/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVSZXF1ZXN0XENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/LeaveRequest/Detail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVSZXF1ZXN0XERldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/LeaveRequest/EmplyoeeIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVSZXF1ZXN0XEVtcGx5b2VlSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/LeaveRequest/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVSZXF1ZXN0XEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/LeaveTypes/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/LeaveTypes/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/LeaveTypes/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/LeaveTypes/FormComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xGb3JtQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/LeaveTypes/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-2hmqee8gea
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-uwcey6007u
+
+[C:/Users/Amir/source/repos/SOLID.CleanArchitecture .NET/SOLID.CleanArchitecture .NET.BlazorApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-a1mub51zwn

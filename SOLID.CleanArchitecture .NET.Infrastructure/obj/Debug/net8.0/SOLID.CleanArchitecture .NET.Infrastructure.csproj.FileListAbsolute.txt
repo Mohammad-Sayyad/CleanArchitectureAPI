@@ -1,0 +1,17 @@
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Infrastructure.AssemblyInfo.cs
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Infrastructure.deps.json
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Infrastructure.dll
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Infrastructure.pdb
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.dll
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Domain.dll
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Application.pdb
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\bin\Debug\net8.0\SOLID.CleanArchitecture .NET.Domain.pdb
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\obj\Debug\net8.0\SOLID.Cl.0EEE454A.Up2Date
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Infrastructure.dll
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\obj\Debug\net8.0\refint\SOLID.CleanArchitecture .NET.Infrastructure.dll
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\obj\Debug\net8.0\SOLID.CleanArchitecture .NET.Infrastructure.pdb
+C:\Users\Amir\source\repos\SOLID.CleanArchitecture .NET\SOLID.CleanArchitecture .NET.Infrastructure\obj\Debug\net8.0\ref\SOLID.CleanArchitecture .NET.Infrastructure.dll

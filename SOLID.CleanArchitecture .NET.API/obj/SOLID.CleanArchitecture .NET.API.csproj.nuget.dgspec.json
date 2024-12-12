@@ -1,0 +1,565 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.API\\SOLID.CleanArchitecture .NET.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.API\\SOLID.CleanArchitecture .NET.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.API\\SOLID.CleanArchitecture .NET.API.csproj",
+        "projectName": "SOLID.CleanArchitecture .NET.API",
+        "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.API\\SOLID.CleanArchitecture .NET.API.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj": {
+                "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj"
+              },
+              "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Identity\\SOLID.CleanArchitecture .NET.Identity.csproj": {
+                "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Identity\\SOLID.CleanArchitecture .NET.Identity.csproj"
+              },
+              "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Infrastructure\\SOLID.CleanArchitecture .NET.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Infrastructure\\SOLID.CleanArchitecture .NET.Infrastructure.csproj"
+              },
+              "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Persistence\\SOLID.CleanArchitecture .NET.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Persistence\\SOLID.CleanArchitecture .NET.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj",
+        "projectName": "SOLID.CleanArchitecture .NET.Application",
+        "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Domain\\SOLID.CleanArchitecture .NET.Domain.csproj": {
+                "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Domain\\SOLID.CleanArchitecture .NET.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AngleSharp": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Domain\\SOLID.CleanArchitecture .NET.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Domain\\SOLID.CleanArchitecture .NET.Domain.csproj",
+        "projectName": "SOLID.CleanArchitecture .NET.Domain",
+        "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Domain\\SOLID.CleanArchitecture .NET.Domain.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Identity\\SOLID.CleanArchitecture .NET.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Identity\\SOLID.CleanArchitecture .NET.Identity.csproj",
+        "projectName": "SOLID.CleanArchitecture .NET.Identity",
+        "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Identity\\SOLID.CleanArchitecture .NET.Identity.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj": {
+                "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.39, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Infrastructure\\SOLID.CleanArchitecture .NET.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Infrastructure\\SOLID.CleanArchitecture .NET.Infrastructure.csproj",
+        "projectName": "SOLID.CleanArchitecture .NET.Infrastructure",
+        "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Infrastructure\\SOLID.CleanArchitecture .NET.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj": {
+                "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.29.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Persistence\\SOLID.CleanArchitecture .NET.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Persistence\\SOLID.CleanArchitecture .NET.Persistence.csproj",
+        "projectName": "SOLID.CleanArchitecture .NET.Persistence",
+        "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Persistence\\SOLID.CleanArchitecture .NET.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj": {
+                "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Application\\SOLID.CleanArchitecture .NET.Application.csproj"
+              },
+              "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Domain\\SOLID.CleanArchitecture .NET.Domain.csproj": {
+                "projectPath": "C:\\Users\\Amir\\source\\repos\\SOLID.CleanArchitecture .NET\\SOLID.CleanArchitecture .NET.Domain\\SOLID.CleanArchitecture .NET.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Hellang.Middleware.ProblemDetails": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

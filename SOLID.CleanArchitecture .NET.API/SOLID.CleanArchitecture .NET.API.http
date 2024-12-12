@@ -1,0 +1,6 @@
+@SOLID.CleanArchitecture_.NET.API_HostAddress = http://localhost:5027
+
+GET {{SOLID.CleanArchitecture_.NET.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
